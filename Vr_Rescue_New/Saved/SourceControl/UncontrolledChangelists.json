@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/Characters/MannequinsXR/Meshes/VRHand.uasset",
+				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/Characters/MannequinsXR/Meshes/ABP_MannequinsXR.uasset",
+				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/Characters/MannequinsXR/Animations/SK_MannequinsXR_Sequence.uasset",
+				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/Characters/MannequinsXR/Animations/A_.uasset",
+				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/Characters/MannequinsXR/Animations/A_MannequinsXR_GrabLadder.uasset",
+				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/Characters/MannequinsXR/Meshes/ABP_ClimableLadder.uasset",
+				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/VRTemplate/Blueprints/GrabComponent.uasset",
+				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/TestObjects/MatID_1.uasset",
+				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/TestObjects/Roadside_Construction_Cobblestone_Gray_Pack_xksldamqx_Raw_xksldamqx_LOD0_TIER0_000.uasset",
+				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/TestObjects/Roadside_Construction_Cobblestone_Gray_Pack_xksldamqx_Raw_xksldamqx_LOD0_TIER0_001.uasset",
+				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/TestObjects/Roadside_Construction_Cobblestone_Gray_Pack_xksldamqx_Raw_xksldamqx_LOD0_TIER0_002.uasset",
+				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/TestObjects/Roadside_Construction_Cobblestone_Gray_Pack_xksldamqx_Raw_xksldamqx_LOD0_TIER0_003.uasset",
+				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/TestObjects/Roadside_Construction_Cobblestone_Gray_Pack_xksldamqx_Raw_xksldamqx_LOD0_TIER0_004.uasset",
+				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/TestObjects/Roadside_Construction_Cobblestone_Gray_Pack_xksldamqx_Raw_xksldamqx_LOD0_TIER0_005.uasset",
 				"D:/Github/VR Rescue 5.3/Vr_Rescue_New/Content/StarterContent/Audio/Collapse01.uasset",
 				"D:/Github/VR Rescue 5.3/Vr_Rescue_New/Content/VRTemplate/Maps/VRTemplateMap.umap"
 			]
