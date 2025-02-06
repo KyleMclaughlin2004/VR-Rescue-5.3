@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Vr_Rescue_New",
+			"Path": "..\\Source\\Vr_Rescue_New.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Vr_Rescue_NewEditor",
+			"Path": "..\\Source\\Vr_Rescue_NewEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

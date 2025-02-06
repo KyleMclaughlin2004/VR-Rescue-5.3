@@ -1,0 +1,50 @@
+"G:\Coding in G\GitHub\aaaaaaaaaaaaaaaaaaa\VR-Rescue-5.3\Vr_Rescue_New\Intermediate\Build\Win64\UnrealEditor\Inc\Vr_Rescue_New\UHT\TestObject.gen.cpp"
+/FI"G:\Coding in G\GitHub\aaaaaaaaaaaaaaaaaaa\VR-Rescue-5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\Vr_Rescue_NewEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/FI"G:\Coding in G\GitHub\aaaaaaaaaaaaaaaaaaa\VR-Rescue-5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vr_Rescue_New\Definitions.Vr_Rescue_New.h"
+/Yu"G:\Coding in G\GitHub\aaaaaaaaaaaaaaaaaaa\VR-Rescue-5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\Vr_Rescue_NewEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/Fp"G:\Coding in G\GitHub\aaaaaaaaaaaaaaaaaaa\VR-Rescue-5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\Vr_Rescue_NewEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"G:\Coding in G\GitHub\aaaaaaaaaaaaaaaaaaa\VR-Rescue-5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vr_Rescue_New\TestObject.gen.cpp.obj"
+/sourceDependencies "G:\Coding in G\GitHub\aaaaaaaaaaaaaaaaaaa\VR-Rescue-5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vr_Rescue_New\TestObject.gen.cpp.dep.json"
+@"G:\Coding in G\GitHub\aaaaaaaaaaaaaaaaaaa\VR-Rescue-5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vr_Rescue_New\Vr_Rescue_New.Shared.rsp"
+/Zc:inline
+/nologo
+/Oi
+/FC
+/c
+/Gw
+/Gy
+/utf-8
+/wd4819
+/DSAL_NO_ATTRIBUTE_DECLARATIONS=1
+/permissive-
+/Zc:strictStrings-
+/Zc:__cplusplus
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_WINDLL
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/Ob2
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/EHsc
+/DPLATFORM_EXCEPTIONS_DISABLED=0
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/we4456
+/we4458
+/we4459
+/we4668
+/wd4244
+/wd4838
+/TP
+/GR-
+/W4
+/std:c++20
+/Zc:preprocessor
+/wd5054

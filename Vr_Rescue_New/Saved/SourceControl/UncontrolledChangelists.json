@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/Coding in G/GitHub/aaaaaaaaaaaaaaaaaaa/VR-Rescue-5.3/Vr_Rescue_New/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"G:/Coding in G/GitHub/aaaaaaaaaaaaaaaaaaa/VR-Rescue-5.3/Vr_Rescue_New/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/Characters/MannequinsXR/Meshes/VRHand.uasset",
 				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/Characters/MannequinsXR/Meshes/ABP_MannequinsXR.uasset",
 				"C:/Users/Lewis/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/Characters/MannequinsXR/Animations/A_MannequinsXR_GrabLadder.uasset",
