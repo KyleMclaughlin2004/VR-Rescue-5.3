@@ -6,10 +6,10 @@
 /NAME:"UnrealEditor-Vr_Rescue_New.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"G:\Coding in G\GitHub\aaaaaaaaaaaaaaaaaaa\VR-Rescue-5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\Vr_Rescue_NewEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
-"G:\Coding in G\GitHub\aaaaaaaaaaaaaaaaaaa\VR-Rescue-5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vr_Rescue_New\TestObject.gen.cpp.obj"
-"G:\Coding in G\GitHub\aaaaaaaaaaaaaaaaaaa\VR-Rescue-5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vr_Rescue_New\Vr_Rescue_New.init.gen.cpp.obj"
-"G:\Coding in G\GitHub\aaaaaaaaaaaaaaaaaaa\VR-Rescue-5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vr_Rescue_New\TestObject.cpp.obj"
-"G:\Coding in G\GitHub\aaaaaaaaaaaaaaaaaaa\VR-Rescue-5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vr_Rescue_New\Vr_Rescue_New.cpp.obj"
-"G:\Coding in G\GitHub\aaaaaaaaaaaaaaaaaaa\VR-Rescue-5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vr_Rescue_New\Default.rc2.res"
-/OUT:"G:\Coding in G\GitHub\aaaaaaaaaaaaaaaaaaa\VR-Rescue-5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vr_Rescue_New\UnrealEditor-Vr_Rescue_New.lib"
+"D:\Github\VR Rescue 5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\Vr_Rescue_NewEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\Github\VR Rescue 5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vr_Rescue_New\TestObject.gen.cpp.obj"
+"D:\Github\VR Rescue 5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vr_Rescue_New\Vr_Rescue_New.init.gen.cpp.obj"
+"D:\Github\VR Rescue 5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vr_Rescue_New\TestObject.cpp.obj"
+"D:\Github\VR Rescue 5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vr_Rescue_New\Vr_Rescue_New.cpp.obj"
+"D:\Github\VR Rescue 5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vr_Rescue_New\Default.rc2.res"
+/OUT:"D:\Github\VR Rescue 5.3\Vr_Rescue_New\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vr_Rescue_New\UnrealEditor-Vr_Rescue_New.lib"

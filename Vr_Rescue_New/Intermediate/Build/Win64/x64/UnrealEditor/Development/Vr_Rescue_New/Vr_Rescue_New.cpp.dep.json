@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "g:\\coding in g\\github\\aaaaaaaaaaaaaaaaaaa\\vr-rescue-5.3\\vr_rescue_new\\source\\vr_rescue_new\\vr_rescue_new.cpp",
+        "Source": "d:\\github\\vr rescue 5.3\\vr_rescue_new\\source\\vr_rescue_new\\vr_rescue_new.cpp",
         "ProvidedModule": "",
-        "PCH": "g:\\coding in g\\github\\aaaaaaaaaaaaaaaaaaa\\vr-rescue-5.3\\vr_rescue_new\\intermediate\\build\\win64\\x64\\vr_rescue_neweditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "PCH": "d:\\github\\vr rescue 5.3\\vr_rescue_new\\intermediate\\build\\win64\\x64\\vr_rescue_neweditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
         "Includes": [
-            "g:\\coding in g\\github\\aaaaaaaaaaaaaaaaaaa\\vr-rescue-5.3\\vr_rescue_new\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vr_rescue_new\\definitions.vr_rescue_new.h",
-            "g:\\coding in g\\github\\aaaaaaaaaaaaaaaaaaa\\vr-rescue-5.3\\vr_rescue_new\\source\\vr_rescue_new\\vr_rescue_new.h"
+            "d:\\github\\vr rescue 5.3\\vr_rescue_new\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vr_rescue_new\\definitions.vr_rescue_new.h",
+            "d:\\github\\vr rescue 5.3\\vr_rescue_new\\source\\vr_rescue_new\\vr_rescue_new.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
