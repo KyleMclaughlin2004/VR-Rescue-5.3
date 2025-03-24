@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Characters/Worker/Helmet/Helmet.uasset",
+				"C:/Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Helmet/standardSurface5_Mixed_AO.uasset",
+				"C:/Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Helmet/standardSurface5_Metallic.uasset",
+				"C:/Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Helmet/standardSurface5_Height.uasset",
+				"C:/Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Helmet/standardSurface5_Base_color.uasset",
+				"C:/Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Helmet/standardSurface5_Roughness.uasset",
 				"C:/Users/Leon/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/Rope_Texture/Rope_texture.uasset",
 				"C:/Users/Leon/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/Rope_Texture/MI_Rope_texture.uasset",
 				"C:/Users/Leon/Documents/GitHub/VR-Rescue-5.3/Vr_Rescue_New/Content/EngineforWindturbine/Textures/Engineshaft_texture/EngineShaft_Textures.uasset",
