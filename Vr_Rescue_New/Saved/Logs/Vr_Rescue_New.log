@@ -2071,3 +2071,11 @@ The following settings have been applied:
 [2025.04.06-13.04.04:438][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.31 sec (total: 2.81 sec)
 [2025.04.06-13.04.04:448][499]AssetCheck: New page: Asset Save: VRTemplateMap
 [2025.04.06-13.04.04:448][499]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.04.06-13.04.59:406][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.04.59:518][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.04.06-13.05.00:668][337]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.04.06-13.05.00:668][337]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Saved/VRTemplateMap2EEF2BA749F40974CC87F89624DE19E8.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.04.06-13.05.00:685][337]LogFileHelpers: Saving map 'VRTemplateMap' took 1.208
+[2025.04.06-13.05.00:694][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.28 sec (total: 4.10 sec)
+[2025.04.06-13.05.00:703][337]AssetCheck: New page: Asset Save: VRTemplateMap
+[2025.04.06-13.05.00:703][337]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
