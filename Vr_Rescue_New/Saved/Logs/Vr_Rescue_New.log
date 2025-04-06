@@ -1718,3 +1718,356 @@ The following settings have been applied:
 [2025.04.06-12.53.31:308][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.50 sec
 [2025.04.06-12.53.31:345][943]AssetCheck: New page: Asset Save: VRTemplateMap
 [2025.04.06-12.53.31:360][943]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.04.06-12.54.46:994][841]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.04.06-12.55.19:453][480]LogInterchangeEngine: [Pending] Importing
+[2025.04.06-12.55.19:453][480]LogInterchangeEngine: Display: Interchange start importing source [E:/PULLEY/pulleyfbx_Pulley_OcclusionRoughnessMetallic.png]
+[2025.04.06-12.55.19:453][480]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.06-12.55.19:453][480]LogInterchangeEngine: Display: Interchange start importing source [E:/PULLEY/pulleyfbx_Pulley_BaseColor.png]
+[2025.04.06-12.55.19:454][480]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.06-12.55.19:454][480]LogInterchangeEngine: Display: Interchange start importing source [E:/PULLEY/pulleyfbx_Pulley_Normal.png]
+[2025.04.06-12.55.19:495][481]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.06-12.55.19:825][481]LogTexture: Display: Building textures: /Game/Lights/pulleyfbx_Pulley_BaseColor.pulleyfbx_Pulley_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.04.06-12.55.19:894][481]LogTexture: Display: Building textures: /Game/Lights/pulleyfbx_Pulley_OcclusionRoughnessMetallic.pulleyfbx_Pulley_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.04.06-12.55.19:992][481]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.04.06-12.55.19:995][481]LogTexture: Display: Building textures: /Game/Lights/pulleyfbx_Pulley_Normal.pulleyfbx_Pulley_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 302.812488 MB), EncodeSpeed: Fast
+[2025.04.06-12.55.20:063][482]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.06-12.55.20:063][482]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.06-12.55.20:080][482]LogInterchangeEngine: [Success] Import Done
+[2025.04.06-12.55.20:109][482]LogInterchangeEngine: [Success] Import Done
+[2025.04.06-12.55.26:956][914]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.04.06-12.55.26:966][914]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.04.06-12.55.26:980][915]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.04.06-12.55.30:857][324]LogContentBrowser: Attempting asset rename: NewMaterial -> Pulley
+[2025.04.06-12.55.30:858][324]LogContentBrowser: End creating deferred item NewMaterial
+[2025.04.06-12.55.48:141][776]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\pulleyfbx.fbx)
+[2025.04.06-12.55.48:151][776]LogFbx: Loading FBX Scene from E:\pulleyfbx.fbx
+[2025.04.06-12.55.48:258][776]LogFbx: FBX Scene Loaded Succesfully
+[2025.04.06-12.55.50:711][776]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.04.06-12.55.50:832][776]LogFbx: Display: Triangulating static mesh pCylinder2
+[2025.04.06-12.55.50:842][776]LogFbx: Display: Triangulating static mesh polySurface2
+[2025.04.06-12.55.51:039][776]LogStaticMesh: Display: Building static mesh pulleyfbx...
+[2025.04.06-12.55.51:224][776]LogStaticMesh: Built static mesh [0.18s] /Game/Lights/pulleyfbx.pulleyfbx
+[2025.04.06-12.55.51:279][776]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.04.06-12.55.53:019][930]LogSlate: Window 'Message Log' being destroyed
+[2025.04.06-12.55.53:024][930]LogSlate: Window 'Message Log' being destroyed
+[2025.04.06-12.55.56:011][199]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Lights/pulleyfbx.pulleyfbx
+[2025.04.06-12.55.56:011][199]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Lights/pulleyfbx.pulleyfbx
+[2025.04.06-12.55.56:012][199]LogActorFactory: Actor Factory spawned StaticMesh /Game/Lights/pulleyfbx.pulleyfbx as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_36
+[2025.04.06-12.55.56:139][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Lights/pulleyfbx.pulleyfbx
+[2025.04.06-12.55.56:139][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Lights/pulleyfbx.pulleyfbx
+[2025.04.06-12.55.56:141][211]LogActorFactory: Actor Factory spawned StaticMesh /Game/Lights/pulleyfbx.pulleyfbx as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_37
+[2025.04.06-12.56.02:059][786]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.04.06-12.56.12:046][816]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.04.06-12.56.19:285][470]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Lights/Pulley.Pulley
+[2025.04.06-12.56.19:290][470]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.06-12.56.19:290][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-12.56.19:439][470]LogSlate: The tab "MaterialEditor_Substrate" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2025.04.06-12.56.19:496][470]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.06-12.56.19:496][470]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.06-12.56.19:496][470]MaterialEditorStats: Shader Count: 0
+[2025.04.06-12.56.19:503][470]LogViewport: Scene viewport resized to 228x357, mode Windowed.
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: ================================================
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Total job queries 320, among them cache hits 41 (12.81%)
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Tracking 213 distinct input hashes that result in 130 distinct outputs (61.03%)
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: RAM used: 7.67 MiB of 819.20 MiB budget. Usage: 0.94%
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Shaders Compiled: 213
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Jobs assigned 213, completed 213 (100%)
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Average time worker was idle: 46.66 s
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Time job spent in pending queue: average 15.53 s, longest 35.33 s
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Job execution time: average 1.58 s, max 19.23 s
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Job life time (pending + execution): average 17.11 s, max 37.31
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Shader code size: average 63.081 KiB, min 4.504 KiB, max 98.047 KiB
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 101.46 s
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Jobs were issued in 213 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Average processing rate: 2.10 jobs/sec
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Total thread time: 224.551 s
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Total thread preprocess time: 54.624 s
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Percentage time preprocessing: 24.33%
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Effective parallelization: 2.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   50 times, average 2.14 sec, max 6.51 sec, min 1.01 sec)
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.81 sec, max 1.81 sec, min 1.81 sec)
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   27 times, average 1.80 sec, max 5.35 sec, min 0.23 sec)
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.73 sec, max 1.73 sec, min 1.73 sec)
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 47.67% of total time (compiled   50 times, average 2.14 sec, max 6.51 sec, min 1.01 sec)
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.69% of total time (compiled   27 times, average 1.80 sec, max 5.35 sec, min 0.23 sec)
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.09% of total time (compiled   62 times, average 0.55 sec, max 3.71 sec, min 0.27 sec)
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 2.00% of total time (compiled    7 times, average 0.64 sec, max 3.76 sec, min 0.09 sec)
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display:                                                  FHitProxyVS - 1.75% of total time (compiled   10 times, average 0.39 sec, max 1.53 sec, min 0.21 sec)
+[2025.04.06-12.56.19:535][471]LogShaderCompilers: Display: ================================================
+[2025.04.06-12.56.19:570][472]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2025.04.06-12.56.19:570][472]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.06-12.56.19:570][472]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.06-12.56.19:570][472]MaterialEditorStats: Shader Count: 2
+[2025.04.06-12.56.29:785][180]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.06-12.56.29:785][180]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.06-12.56.29:786][180]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-12.56.29:786][180]MaterialEditorStats: Shader Count: 0
+[2025.04.06-12.56.29:858][182]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2025.04.06-12.56.29:858][182]MaterialEditorStats: Texture samplers: 5/16
+[2025.04.06-12.56.29:858][182]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.06-12.56.29:858][182]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-12.56.29:858][182]MaterialEditorStats: Shader Count: 2
+[2025.04.06-12.56.32:429][368]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.06-12.56.32:429][368]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.06-12.56.32:429][368]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-12.56.32:429][368]MaterialEditorStats: Shader Count: 0
+[2025.04.06-12.56.33:464][442]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2025.04.06-12.56.33:464][442]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.06-12.56.33:464][442]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.06-12.56.33:464][442]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-12.56.33:464][442]MaterialEditorStats: Shader Count: 1
+[2025.04.06-12.56.34:784][527]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2025.04.06-12.56.34:785][527]MaterialEditorStats: Texture samplers: 6/16
+[2025.04.06-12.56.34:785][527]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.06-12.56.34:785][527]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-12.56.34:785][527]MaterialEditorStats: Shader Count: 2
+[2025.04.06-12.56.40:949][965]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.06-12.56.40:949][965]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.06-12.56.40:949][965]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-12.56.40:949][965]MaterialEditorStats: Shader Count: 0
+[2025.04.06-12.56.41:518][  0]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2025.04.06-12.56.41:518][  0]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.06-12.56.41:518][  0]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.06-12.56.41:518][  0]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-12.56.41:518][  0]MaterialEditorStats: Shader Count: 1
+[2025.04.06-12.56.43:336][123]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2025.04.06-12.56.43:336][123]MaterialEditorStats: Texture samplers: 7/16
+[2025.04.06-12.56.43:336][123]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.06-12.56.43:336][123]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-12.56.43:336][123]MaterialEditorStats: Shader Count: 2
+[2025.04.06-12.56.47:791][461]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.06-12.56.47:791][461]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.06-12.56.47:791][461]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-12.56.47:791][461]MaterialEditorStats: Shader Count: 0
+[2025.04.06-12.56.48:414][498]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2025.04.06-12.56.48:414][498]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.06-12.56.48:414][498]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.06-12.56.48:414][498]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-12.56.48:414][498]MaterialEditorStats: Shader Count: 1
+[2025.04.06-12.56.50:341][614]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2025.04.06-12.56.50:341][614]MaterialEditorStats: Texture samplers: 7/16
+[2025.04.06-12.56.50:341][614]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.06-12.56.50:341][614]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-12.56.50:341][614]MaterialEditorStats: Shader Count: 2
+[2025.04.06-12.56.53:141][809]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.06-12.56.53:141][809]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.06-12.56.53:141][809]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-12.56.53:141][809]MaterialEditorStats: Shader Count: 0
+[2025.04.06-12.56.53:734][848]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2025.04.06-12.56.53:734][848]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.06-12.56.53:734][848]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.06-12.56.53:734][848]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-12.56.53:735][848]MaterialEditorStats: Shader Count: 1
+[2025.04.06-12.56.54:862][929]LogMaterialEditor: Applying material Pulley
+[2025.04.06-12.56.55:134][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.04.06-12.56.56:000][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.06-12.56.56:021][929]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.06-12.56.56:021][929]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.06-12.56.56:021][929]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-12.56.56:021][929]MaterialEditorStats: Shader Count: 2
+[2025.04.06-12.56.56:152][932]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2025.04.06-12.56.56:152][932]MaterialEditorStats: Texture samplers: 7/16
+[2025.04.06-12.56.56:152][932]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.06-12.56.56:152][932]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-12.56.56:152][932]MaterialEditorStats: Shader Count: 4
+[2025.04.06-12.57.32:976][692]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2958.638184
+[2025.04.06-12.57.33:977][695]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.06-12.57.33:977][695]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2959.306152, Update Interval: 310.096741
+[2025.04.06-13.02.51:844][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.04.06-13.02.53:564][979]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.06-13.02.53:712][979]LogSlate: Window 'Pulley' being destroyed
+[2025.04.06-13.02.53:742][979]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-13.02.53:742][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-13.02.53:758][979]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Lights/pulleyfbx_Pulley_BaseColor.pulleyfbx_Pulley_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/Lights/pulleyfbx_Pulley_Normal.pulleyfbx_Pulley_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/Lights/pulleyfbx_Pulley_OcclusionRoughnessMetallic.pulleyfbx_Pulley_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+[2025.04.06-13.02.55:170][979]LogMaterial: Warning: [AssetLog] /Game/Lights/Pulley.Pulley: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.04.06-13.02.55:170][979]LogMaterial: Warning: Pulley: Requesting an invalid TextureIndex! (1 / 0)
+[2025.04.06-13.02.55:172][979]LogMaterial: Warning: [AssetLog] /Game/Lights/Pulley.Pulley: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.04.06-13.02.55:174][979]LogMaterial: Warning: [AssetLog] /Game/Lights/Pulley.Pulley: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.04.06-13.02.55:175][979]LogMaterial: Warning: [AssetLog] /Game/Lights/Pulley.Pulley: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.04.06-13.02.55:176][979]LogMaterial: Warning: [AssetLog] /Engine/Transient.Pulley: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.04.06-13.02.55:178][979]LogMaterial: Warning: [AssetLog] /Engine/Transient.Pulley: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.04.06-13.02.55:179][979]LogMaterial: Warning: [AssetLog] /Game/Lights/Pulley.Pulley: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.04.06-13.02.55:551][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.04.06-13.02.55:561][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.04.06-13.02.55:567][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.04.06-13.03.01:450][223]LogInterchangeEngine: [Pending] Importing
+[2025.04.06-13.03.01:450][223]LogInterchangeEngine: Display: Interchange start importing source [E:/PULLEY/pulleyfbx_Pulley_OcclusionRoughnessMetallic.png]
+[2025.04.06-13.03.01:451][223]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.06-13.03.01:451][223]LogInterchangeEngine: Display: Interchange start importing source [E:/PULLEY/pulleyfbx_Pulley_BaseColor.png]
+[2025.04.06-13.03.01:451][223]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.06-13.03.01:451][223]LogInterchangeEngine: Display: Interchange start importing source [E:/PULLEY/pulleyfbx_Pulley_Normal.png]
+[2025.04.06-13.03.01:490][224]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.06-13.03.01:820][224]LogTexture: Display: Building textures: /Game/Lights/pulleyfbx_Pulley_BaseColor.pulleyfbx_Pulley_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.04.06-13.03.01:939][224]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.04.06-13.03.01:944][224]LogTexture: Display: Building textures: /Game/Lights/pulleyfbx_Pulley_Normal.pulleyfbx_Pulley_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 302.812488 MB), EncodeSpeed: Fast
+[2025.04.06-13.03.02:022][224]LogTexture: Display: Building textures: /Game/Lights/pulleyfbx_Pulley_OcclusionRoughnessMetallic.pulleyfbx_Pulley_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.04.06-13.03.02:116][224]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.06-13.03.02:116][224]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.06-13.03.02:130][224]LogInterchangeEngine: [Success] Import Done
+[2025.04.06-13.03.02:169][225]LogInterchangeEngine: [Success] Import Done
+[2025.04.06-13.03.05:605][522]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Lights/Pulley.Pulley
+[2025.04.06-13.03.05:606][522]LogMaterial: Warning: [AssetLog] /Engine/Transient.Pulley: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.04.06-13.03.05:608][522]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.06-13.03.05:608][522]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-13.03.05:778][522]LogSlate: The tab "MaterialEditor_Substrate" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2025.04.06-13.03.05:786][522]LogMaterial: Warning: [AssetLog] /Engine/Transient.Pulley: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.04.06-13.03.05:787][522]LogMaterial: Warning: [AssetLog] /Engine/Transient.Pulley: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.04.06-13.03.05:812][522]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2025.04.06-13.03.05:812][522]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2025.04.06-13.03.05:812][522]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2025.04.06-13.03.05:821][522]LogViewport: Scene viewport resized to 228x357, mode Windowed.
+[2025.04.06-13.03.10:066][837]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.06-13.03.10:066][837]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.06-13.03.10:066][837]MaterialEditorStats: Shader Count: 0
+[2025.04.06-13.03.10:100][838]LogShaderCompilers: Display: ================================================
+[2025.04.06-13.03.10:100][838]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.06-13.03.10:100][838]LogShaderCompilers: Display: Total job queries 366, among them cache hits 72 (19.67%)
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Tracking 227 distinct input hashes that result in 134 distinct outputs (59.03%)
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: RAM used: 8.19 MiB of 819.20 MiB budget. Usage: 1.00%
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Shaders Compiled: 227
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Jobs assigned 227, completed 227 (100%)
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Average time worker was idle: 49.07 s
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Time job spent in pending queue: average 14.58 s, longest 35.33 s
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Job execution time: average 1.55 s, max 19.23 s
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Job life time (pending + execution): average 16.12 s, max 37.31
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Shader code size: average 63.359 KiB, min 4.504 KiB, max 98.047 KiB
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 112.32 s
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Jobs were issued in 227 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Average processing rate: 2.02 jobs/sec
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Total thread time: 236.77 s
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Total thread preprocess time: 55.131 s
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Percentage time preprocessing: 23.28%
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Effective parallelization: 2.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   54 times, average 2.14 sec, max 6.51 sec, min 1.01 sec)
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.81 sec, max 1.81 sec, min 1.81 sec)
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.73 sec, max 1.73 sec, min 1.73 sec)
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   29 times, average 1.70 sec, max 5.35 sec, min 0.23 sec)
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 48.88% of total time (compiled   54 times, average 2.14 sec, max 6.51 sec, min 1.01 sec)
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.88% of total time (compiled   29 times, average 1.70 sec, max 5.35 sec, min 0.23 sec)
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.33% of total time (compiled   68 times, average 0.53 sec, max 3.71 sec, min 0.27 sec)
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 1.89% of total time (compiled    7 times, average 0.64 sec, max 3.76 sec, min 0.09 sec)
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display:                                                  FHitProxyVS - 1.66% of total time (compiled   10 times, average 0.39 sec, max 1.53 sec, min 0.21 sec)
+[2025.04.06-13.03.10:101][838]LogShaderCompilers: Display: ================================================
+[2025.04.06-13.03.10:121][839]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2025.04.06-13.03.10:121][839]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.06-13.03.10:121][839]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.06-13.03.10:121][839]MaterialEditorStats: Shader Count: 2
+[2025.04.06-13.03.26:926][980]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3312.590088
+[2025.04.06-13.03.27:064][994]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.06-13.03.27:064][994]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3312.718506, Update Interval: 327.019867
+[2025.04.06-13.03.29:662][211]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.06-13.03.29:662][211]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.06-13.03.29:662][211]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-13.03.29:662][211]MaterialEditorStats: Shader Count: 0
+[2025.04.06-13.03.29:745][213]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2025.04.06-13.03.29:745][213]MaterialEditorStats: Texture samplers: 5/16
+[2025.04.06-13.03.29:745][213]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.06-13.03.29:745][213]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-13.03.29:745][213]MaterialEditorStats: Shader Count: 2
+[2025.04.06-13.03.41:151][103]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.06-13.03.41:151][103]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.06-13.03.41:151][103]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-13.03.41:151][103]MaterialEditorStats: Shader Count: 0
+[2025.04.06-13.03.43:424][253]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2025.04.06-13.03.43:424][253]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.06-13.03.43:424][253]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.06-13.03.43:424][253]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-13.03.43:424][253]MaterialEditorStats: Shader Count: 1
+[2025.04.06-13.03.46:524][477]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.06-13.03.46:524][477]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.06-13.03.46:524][477]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-13.03.46:524][477]MaterialEditorStats: Shader Count: 0
+[2025.04.06-13.03.47:184][522]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2025.04.06-13.03.47:185][522]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.06-13.03.47:185][522]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.06-13.03.47:185][522]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-13.03.47:185][522]MaterialEditorStats: Shader Count: 1
+[2025.04.06-13.03.49:029][642]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.06-13.03.49:029][642]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.06-13.03.49:029][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-13.03.49:029][642]MaterialEditorStats: Shader Count: 0
+[2025.04.06-13.03.49:623][682]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2025.04.06-13.03.49:623][682]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.06-13.03.49:623][682]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.06-13.03.49:623][682]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-13.03.49:623][682]MaterialEditorStats: Shader Count: 1
+[2025.04.06-13.03.50:104][716]LogMaterialEditor: Applying material Pulley
+[2025.04.06-13.03.50:400][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.06-13.03.50:931][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.04.06-13.03.50:945][716]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2025.04.06-13.03.50:945][716]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.06-13.03.50:945][716]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.06-13.03.50:945][716]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-13.03.50:945][716]MaterialEditorStats: Shader Count: 3
+[2025.04.06-13.03.51:007][717]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2025.04.06-13.03.51:007][717]MaterialEditorStats: Texture samplers: 7/16
+[2025.04.06-13.03.51:007][717]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.06-13.03.51:007][717]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.06-13.03.51:007][717]MaterialEditorStats: Shader Count: 4
+[2025.04.06-13.04.01:725][347]LogSlate: Window 'Pulley' being destroyed
+[2025.04.06-13.04.01:733][347]LogSlate: Window 'Pulley' being destroyed
+[2025.04.06-13.04.01:756][347]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-13.04.01:757][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-13.04.03:127][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.04.03:238][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.06-13.04.04:411][499]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.04.06-13.04.04:412][499]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Saved/VRTemplateMap22AFD2D44E896E8AA53A23BB4CA67C8B.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.04.06-13.04.04:428][499]LogFileHelpers: Saving map 'VRTemplateMap' took 1.225
+[2025.04.06-13.04.04:438][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.31 sec (total: 2.81 sec)
+[2025.04.06-13.04.04:448][499]AssetCheck: New page: Asset Save: VRTemplateMap
+[2025.04.06-13.04.04:448][499]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
