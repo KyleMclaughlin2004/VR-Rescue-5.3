@@ -2079,3 +2079,73 @@ The following settings have been applied:
 [2025.04.06-13.05.00:694][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.28 sec (total: 4.10 sec)
 [2025.04.06-13.05.00:703][337]AssetCheck: New page: Asset Save: VRTemplateMap
 [2025.04.06-13.05.00:703][337]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.04.06-13.05.09:517][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.04.06-13.05.12:176][398]LogSlate: Window 'Save Content' being destroyed
+[2025.04.06-13.05.12:189][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.05.12:309][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lights/light" FILE="../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Lights/light.uasset" SILENT=true
+[2025.04.06-13.05.12:313][398]LogSavePackage: Moving output files for package: /Game/Lights/light
+[2025.04.06-13.05.12:313][398]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Saved/light881D60844BE726747649CB9FE67D911A.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Lights/light.uasset'
+[2025.04.06-13.05.12:443][398]LogSavePackage: Moving output files for package: /Game/Lights/light_Light_BaseColor
+[2025.04.06-13.05.12:443][398]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Saved/light_Light_BaseColor0CA9C356445ECA066FE6AABCC7E8A99E.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Lights/light_Light_BaseColor.uasset'
+[2025.04.06-13.05.12:497][398]LogSavePackage: Moving output files for package: /Game/Lights/light_Light_Emissive
+[2025.04.06-13.05.12:497][398]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Saved/light_Light_Emissive065A69104011DB2CEE7979AF1CEB28EA.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Lights/light_Light_Emissive.uasset'
+[2025.04.06-13.05.12:586][398]LogSavePackage: Moving output files for package: /Game/Lights/light_Light_Normal
+[2025.04.06-13.05.12:586][398]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Saved/light_Light_Normal1400F48F4BFB1745038F61970C90BC50.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Lights/light_Light_Normal.uasset'
+[2025.04.06-13.05.12:644][398]LogSavePackage: Moving output files for package: /Game/Lights/light_Light_OcclusionRoughnessMetallic
+[2025.04.06-13.05.12:644][398]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Saved/light_Light_OcclusionRoughnessMe720B709C4E5B6D46D9DB698D7948A6A4.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Lights/light_Light_OcclusionRoughnessMetallic.uasset'
+[2025.04.06-13.05.12:674][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lights/lights_2" FILE="../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Lights/lights_2.uasset" SILENT=true
+[2025.04.06-13.05.12:679][398]LogSavePackage: Moving output files for package: /Game/Lights/lights_2
+[2025.04.06-13.05.12:679][398]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Saved/lights_2CE18B1284B9DE0538CC71B883E0191C6.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Lights/lights_2.uasset'
+[2025.04.06-13.05.12:681][398]LogSavePackage: Moving output files for package: /Game/Lights/lightsfortheshaft
+[2025.04.06-13.05.12:681][398]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Saved/lightsfortheshaft4C5DD98D46B458E923471C81CBE65575.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Lights/lightsfortheshaft.uasset'
+[2025.04.06-13.05.14:692][398]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2025.04.06-13.05.16:836][398]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 4.146620s (2.146620s overbudget)
+[2025.04.06-13.05.16:853][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lights/Pulley" FILE="../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Lights/Pulley.uasset" SILENT=true
+[2025.04.06-13.05.16:854][398]LogSavePackage: Moving output files for package: /Game/Lights/Pulley
+[2025.04.06-13.05.16:854][398]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Saved/Pulley629DBB524919CD90D2455FB470D7E4DE.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Lights/Pulley.uasset'
+[2025.04.06-13.05.16:869][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lights/pulleyfbx" FILE="../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Lights/pulleyfbx.uasset" SILENT=true
+[2025.04.06-13.05.16:973][398]LogSavePackage: Moving output files for package: /Game/Lights/pulleyfbx
+[2025.04.06-13.05.16:973][398]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Saved/pulleyfbx1755D3394FA914BBF68F55839255A86E.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Lights/pulleyfbx.uasset'
+[2025.04.06-13.05.17:061][398]LogSavePackage: Moving output files for package: /Game/Lights/pulleyfbx_Pulley_BaseColor
+[2025.04.06-13.05.17:061][398]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Saved/pulleyfbx_Pulley_BaseColor362495F845829E777BD1CDB17CA9E428.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Lights/pulleyfbx_Pulley_BaseColor.uasset'
+[2025.04.06-13.05.17:154][398]LogSavePackage: Moving output files for package: /Game/Lights/pulleyfbx_Pulley_Normal
+[2025.04.06-13.05.17:154][398]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Saved/pulleyfbx_Pulley_Normal7E8D8B984FFE13FCF2AF95AB0846F665.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Lights/pulleyfbx_Pulley_Normal.uasset'
+[2025.04.06-13.05.17:235][398]LogSavePackage: Moving output files for package: /Game/Lights/pulleyfbx_Pulley_OcclusionRoughnessMetallic
+[2025.04.06-13.05.17:235][398]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Saved/pulleyfbx_Pulley_OcclusionRoughnF2C2593143742D9FE3BD1A9F533617CD.tmp' to '../../../../../../Users/Admin/Documents/GitHub/Vr_pleasework/VR-Rescue-5.3/Vr_Rescue_New/Content/Lights/pulleyfbx_Pulley_OcclusionRoughnessMetallic.uasset'
+[2025.04.06-13.05.17:259][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.06 sec (total: 9.17 sec)
+[2025.04.06-13.05.17:306][398]LogStall: Shutdown...
+[2025.04.06-13.05.17:369][398]LogStall: Shutdown complete.
+[2025.04.06-13.05.17:614][398]LogSlate: Window 'Content Browser' being destroyed
+[2025.04.06-13.05.17:791][398]LogSlate: Window 'Vr_Rescue_New - Unreal Editor' being destroyed
+[2025.04.06-13.05.18:720][398]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.06-13.05.18:720][398]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Lights/light.light
+[2025.04.06-13.05.18:720][398]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lights/light_Light_BaseColor.light_Light_BaseColor
+[2025.04.06-13.05.18:720][398]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lights/light_Light_Emissive.light_Light_Emissive
+[2025.04.06-13.05.18:720][398]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lights/light_Light_Normal.light_Light_Normal
+[2025.04.06-13.05.18:720][398]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lights/light_Light_OcclusionRoughnessMetallic.light_Light_OcclusionRoughnessMetallic
+[2025.04.06-13.05.18:720][398]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Lights/lights_2.lights_2
+[2025.04.06-13.05.18:720][398]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Lights/lightsfortheshaft.lightsfortheshaft
+[2025.04.06-13.05.18:720][398]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Lights/Pulley.Pulley
+[2025.04.06-13.05.18:720][398]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Lights/pulleyfbx.pulleyfbx
+[2025.04.06-13.05.18:720][398]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lights/pulleyfbx_Pulley_BaseColor.pulleyfbx_Pulley_BaseColor
+[2025.04.06-13.05.18:720][398]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lights/pulleyfbx_Pulley_Normal.pulleyfbx_Pulley_Normal
+[2025.04.06-13.05.18:720][398]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lights/pulleyfbx_Pulley_OcclusionRoughnessMetallic.pulleyfbx_Pulley_OcclusionRoughnessMetallic
+[2025.04.06-13.05.18:728][399]Cmd: QUIT_EDITOR
+[2025.04.06-13.05.18:772][399]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.04.06-13.05.19:038][399]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.04.06-13.05.19:066][399]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.04.06-13.05.19:069][399]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.04.06-13.05.19:446][399]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-13.05.19:457][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-13.05.20:075][399]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.04.06-13.05.21:727][399]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.04.06-13.05.21:727][399]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.04.06-13.05.21:728][399]LogAudio: Display: Audio Device unregistered from world 'VRTemplateMap'.
+[2025.04.06-13.05.21:803][399]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2025.04.06-13.05.22:372][399]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.06-13.05.22:423][399]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.06-13.05.22:526][399]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.06-13.05.23:307][399]LogAudio: Display: Audio Device Manager Shutdown
+[2025.04.06-13.05.23:417][399]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.04.06-13.05.23:682][399]LogExit: Preparing to exit.
+[2025.04.06-13.05.29:223][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
